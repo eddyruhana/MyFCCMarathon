@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+
+#soccer-ball {
+  width: 100%;
+  height: auto;
+}
+
+#Par_Middle {
+  font-size: 150%;
+}
+
+#Par_Left {
+  font-family: Monotype Corsiva;
+  color: red;
+  font-size: 120%;
+}
+
+#Par_Right {
+  font-family: Monotype Corsiva;
+  color: red;
+  font-size: 120%;
+}
